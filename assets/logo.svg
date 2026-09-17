@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Baltic Control (BD) Ltd.</title>
+  <defs>
+    <clipPath id="globe">
+      <circle cx="60" cy="60" r="56"/>
+    </clipPath>
+  </defs>
+  <circle cx="60" cy="60" r="58" fill="#1D4F9A"/>
+  <g clip-path="url(#globe)" fill="none" stroke="#ffffff" stroke-width="2.2">
+    <ellipse cx="60" cy="60" rx="22" ry="54"/>
+    <ellipse cx="60" cy="60" rx="40" ry="54"/>
+    <path d="M6 60h108"/>
+    <path d="M12 36h96"/>
+    <path d="M12 84h96"/>
+    <path d="M28 18h64"/>
+    <path d="M28 102h64"/>
+  </g>
+  <circle cx="60" cy="60" r="56" fill="none" stroke="#163A74" stroke-width="2"/>
+  <text x="60" y="76" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="44" font-weight="800" fill="#E31C23" letter-spacing="-2">BC</text>
+</svg>
