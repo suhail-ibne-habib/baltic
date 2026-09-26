@@ -201,8 +201,8 @@
       var body = encodeURIComponent(
         "Name: " + name + "\nEmail: " + email + "\nPhone: " + phone + "\nService: " + service + "\n\n" + message
       );
-      window.location.href = "mailto:mail@balticcontrolbd.com?subject=" + subject + "&body=" + body;
-      status.textContent = "Your email app should open with the request. If it does not, write to mail@balticcontrolbd.com.";
+      window.location.href = "mailto:ric.bd@live.com?subject=" + subject + "&body=" + body;
+      status.textContent = "Your email app should open with the request. If it does not, write to ric.bd@live.com.";
       status.className = "form-status is-success";
     });
 
